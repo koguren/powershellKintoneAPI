@@ -1,0 +1,1 @@
+PowerShellを利用してkintone-apiに接続するサンプルコードです。
