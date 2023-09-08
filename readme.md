@@ -1,4 +1,4 @@
-```kintoneDownloadAllFiles.ps1
+```kintoneApiSample.ps1
 # sample
 
 # ロギング
